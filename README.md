@@ -1,11 +1,11 @@
 # Music-Recommendation-System-using-Spotify-Dataset
 This project implements a music recommendation system using Spotify data. Leveraging machine learning and data analysis, it recommends personalized tracks based on user preferences.
 # Features:
-Data Collection: Gathers user listening data via the Spotify API, including track features like tempo and energy.
-Analysis: Extracts insights on user preferences and trends from the dataset.
-Modeling: Develops machine learning models to predict user preferences and suggest relevant music.
-Evaluation: Assesses system performance using accuracy and other metrics.
-Interface: Provides a user-friendly interface for receiving recommendations.
+* Data Collection: Gathers user listening data via the Spotify API, including track features like tempo and energy.
+* Analysis: Extracts insights on user preferences and trends from the dataset.
+* Modeling: Develops machine learning models to predict user preferences and suggest relevant music.
+* Evaluation: Assesses system performance using accuracy and other metrics.
+* Interface: Provides a user-friendly interface for receiving recommendations.
 # Technologies:
 1. Python
 2. Spotify API
